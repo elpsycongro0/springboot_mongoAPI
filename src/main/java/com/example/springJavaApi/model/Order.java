@@ -1,6 +1,5 @@
 package com.example.springJavaApi.model;
 
-import java.util.Collections;
 import java.util.List;
 
 import org.springframework.data.annotation.Id;
